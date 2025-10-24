@@ -5,7 +5,7 @@ This project explores the fundamentals of Decision Tree Classifiers using the Ca
 
 ## Key concepts covered:
 
-Decision Tree Structure: Root nodes, splitting, leaf nodes, and Gini Impurity for measuring node purity.
+Decision Tree Description: Root nodes, splitting, leaf nodes, and Gini Impurity for measuring node purity.
 
 Model Training and Evaluation: Accuracy, precision, and recall metrics.
 
